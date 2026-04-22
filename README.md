@@ -21,7 +21,7 @@ Uma aplicação simples CRUD (Create e Delete)
 
 1.  **Clone o repositório:**
     ```bash
-    git clone https://github.com/thiyaggo/todo-list-mysql-express.git
+    git clone https://github.com/thiyaggo/todo-list-simples
     ```
 
     ## ✉️ Contato
